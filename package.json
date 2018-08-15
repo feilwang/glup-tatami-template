@@ -1,6 +1,6 @@
 {
-  "name": "glup-tatami-template",
-  "version": "1.0.1",
+  "name": "glup-tatami-tpl",
+  "version": "1.0.2",
   "description": "将html模板转成tatami模板的glup工具",
   "main": "index.js",
   "directories": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/feilwang/glup-tatami-template.git"
+    "url": "git+https://github.com/feilwang/glup-tatami-tpl.git"
   },
   "keywords": [
     "gulp",
@@ -20,9 +20,9 @@
   "author": "admin@feil.wang",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/feilwang/glup-tatami-template/issues"
+    "url": "https://github.com/feilwang/glup-tatami-tpl/issues"
   },
-  "homepage": "https://github.com/feilwang/glup-tatami-template#readme",
+  "homepage": "https://github.com/feilwang/glup-tatami-tpl#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.2",
     "gulp-util": "^3.0.8",
