@@ -1,6 +1,6 @@
 {
   "name": "gulp-tatami-tpl",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "将html模板转成tatami模板的glup工具",
   "main": "index.js",
   "directories": {
